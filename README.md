@@ -87,10 +87,6 @@
 
 <h2 align="left">Connect with me:</h2>
 
-
-<img align="right" height="101" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N0NTlscTJ3OTAyN3VzZWwzZWNrODQ2NGJpMmVpM3ViY3U2ZjB5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"  />
-
-
 <div align="left">
   <a href="https://www.linkedin.com/in/adarsh-kumar-89438b250/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />

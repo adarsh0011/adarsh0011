@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi  👋 I'm Aadarsh</h1>
 
-<h6 align="center">Full Stack Developer | Open Source Contributor | Blockchain</h6>
+<h6 align="center">Full Stack Developer | Open Source Contributor | Blockchain Enthusiast</h6>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adarsh0011.adarsh0011&left_color=gray&right_color=orange&left_text=Profile%20Views"  />
 <br>
